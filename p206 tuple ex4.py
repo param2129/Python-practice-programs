@@ -1,0 +1,5 @@
+t1=(11,22,33,44,55)
+list=list(t1)
+a=list.index(44)
+t1=tuple(list)
+print(a)

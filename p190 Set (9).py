@@ -1,0 +1,6 @@
+t1=(11,66,7,8,99,20,30,40,55,57,51,11)
+print(t1)
+print(max(t1))
+print(sum(t1))
+print(len(t1))
+print(min(t1))
